@@ -1,0 +1,39 @@
+
+# Requisitos
+
+Para utilizar o sistema "DinoCash", os seguintes requisitos devem ser atendidos:
+
+## Requisitos de Software
+- **PHP**: Versão 7.1.3 ou superior
+- **Composer**: Para gerenciar as dependências PHP
+- **Node.js**: Para gerenciar as dependências JavaScript e compilar os assets
+- **MySQL**: Para gerenciamento do banco de dados
+- **Redis**: Para caching e gerenciamento de sessões
+
+## Dependências PHP
+- **anhskohbo/no-captcha**: Para integração com o Google reCAPTCHA
+- **fideloper/proxy**: Para suporte a proxies reversos
+- **laravel/framework**: Core do framework Laravel
+- **laravel/tinker**: Ferramenta para interagir com o aplicativo no terminal
+- **predis/predis**: Cliente Redis para PHP
+- **socialiteproviders/vkontakte**: Integração com o VKontakte
+- **yajra/laravel-datatables-oracle**: Plugin para manipulação de tabelas
+
+## Dependências JavaScript
+- **axios**: Para requisições HTTP assíncronas
+- **bootstrap**: Framework CSS
+- **popper.js**: Biblioteca para gerenciamento de pop-ups
+- **cross-env**: Para definir variáveis de ambiente
+- **jquery**: Biblioteca JavaScript
+- **laravel-mix**: API para Webpack
+- **lodash**: Biblioteca utilitária para JavaScript
+- **vue**: Framework JavaScript para construção de interfaces de usuário
+- **express**: Framework para Node.js
+- **fs**: Biblioteca para manipulação do sistema de arquivos
+- **http**: Biblioteca HTTP para Node.js
+- **https**: Biblioteca HTTPS para Node.js
+- **randomizer**: Biblioteca para gerar valores aleatórios
+- **redis**: Cliente Redis para Node.js
+- **requestify**: Cliente HTTP para Node.js
+- **socket.io**: Biblioteca para comunicação em tempo real
+

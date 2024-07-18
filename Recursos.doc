@@ -1,0 +1,29 @@
+
+# Recursos
+
+Nosso sistema "DinoCash" inclui uma variedade de jogos e recursos que proporcionam uma experiência única aos usuários. Abaixo estão as principais funcionalidades disponíveis:
+
+1. **Jogos Disponíveis:**
+    - **Battle**: Jogo de batalhas onde os usuários competem entre si.
+    - **Bonus**: Sistema de bônus para recompensar os usuários.
+    - **Coin**: Jogo de lançamento de moedas.
+    - **Crash**: Jogo de multiplicador crescente onde o usuário decide quando retirar antes que o multiplicador "quebre".
+    - **Dice**: Jogo de dados com diferentes modos.
+    - **Double**: Jogo de aposta dupla.
+    - **Fair Game**: Sistema de jogo justo garantindo transparência e confiança.
+    - **Jackpot**: Jogo de jackpot com grandes prêmios.
+    - **Mines**: Jogo de minas.
+    - **Raffle**: Sistema de sorteio.
+    - **Referência**: Sistema de referência para recompensar indicações.
+    - **Revisões**: Seção para revisões de usuários.
+    - **Retirada e Depósito**: Módulos para gerenciamento de depósitos e retiradas de fundos.
+    - **Histórico de Jogos**: Registro detalhado do histórico de jogos dos usuários.
+
+## Recursos Técnicos
+- **Laravel Framework**: Construído com o Laravel, um dos frameworks PHP mais populares e robustos.
+- **Vue.js**: Utilizado para uma experiência de front-end dinâmica e reativa.
+- **Redis**: Implementado para caching eficiente e gerenciamento de sessões.
+- **Socket.io**: Para comunicação em tempo real entre os clientes e o servidor.
+- **Axios**: Utilizado para requisições HTTP assíncronas.
+- **Bootstrap**: Framework CSS para uma interface moderna e responsiva.
+
